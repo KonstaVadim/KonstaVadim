@@ -6,7 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&height=160&section=footer&desc=Wellcome%20to%20my%20GitHub&descAlignY=75&descSize=40&animation=twinkling&fontColor=fcf5f7&descAlign=67)
 
-## :hammer_and_wrench: Технологии и инструменты
+## :hammer_and_wrench: Languages and Tools
 
 
 <p align="center">
