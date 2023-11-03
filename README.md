@@ -10,10 +10,10 @@
 
 
 <p align="center">
-<code>
+<span>
   <img width="5%" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
 </code>
-<code>
+<span>
   <img width="5%" title="Vue" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
 </code>
 <code>
