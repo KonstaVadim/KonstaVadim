@@ -23,9 +23,6 @@
   <img width="5%" title="Webpack" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg">
 </span>
 <span>
-  <img width="5%" title="Rollup" src="https://rollupjs.org/logo.svg">
-</span>
-<span>
   <img width="5%" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
 </span>
 <span>
@@ -33,9 +30,6 @@
 </span>
 <span>
   <img width="5%" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
-</span>
-<span>
-  <img width="5%" title="ESLint" src="https://camo.githubusercontent.com/a5e575e94f48ea666506fe28bf0eaf475ef28b2ed8e5b829e48a21f9c6390d49/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f65736c696e742e737667">
 </span>
 <span>
   <img width="5%" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
